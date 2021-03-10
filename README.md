@@ -2,13 +2,13 @@
 
 This is how the page will look once loaded
 
-<img src='./screen-shots/start-game.png' width='350px'/>
+<img src='./screen-shots/start-page.png' width='350px'/>
 
 When we start the game the input is focused and we can start typing.
 
 Below is a screen shot of game over with you word count in the set time
 
-<img src='./screen-shots/end-game.png' width='350px'/>
+<img src='./screen-shots/end-page.png' width='350px'/>
 
 # Getting Started with Create React App
 
